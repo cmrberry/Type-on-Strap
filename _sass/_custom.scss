@@ -9,9 +9,9 @@
     min-height: 500px;
   }
   .site-header .avatar {
-    width: 12em;
+    width: 12em !important;
     float: left;
-    margin: -83px 0px -73px;
-    padding: 0 15px;
+    margin: -83px 0px -73px !important;
+    padding: 0 15px !important;
   }
 }
