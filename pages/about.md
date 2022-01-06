@@ -2,7 +2,7 @@
 layout: page
 title: About Rucheli
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/LightsBG.png"
 tags: [Page]
 ---
 
