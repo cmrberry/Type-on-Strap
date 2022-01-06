@@ -3,16 +3,16 @@ baseurl: ""
 url: "http://rucheli.com"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
+title: Rucheli Berry                                    # site's title
+description: "Creating personal transformation through ancient Jewish wisdom and modern coaching methods"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text:   # Change Blog header text
+header_text: Testing Header Text # Change Blog header text
 header_feature_image: assets/img/feature-img/Copy of Rucheli Berry (7).png
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Powered by <a href="https://github.com/cmrberry/ruchelidotcom">GitHub Pages</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
