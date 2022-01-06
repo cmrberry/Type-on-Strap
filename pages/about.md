@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2148335486/settings_images/PJGTznfeTwCh0XpJQ20N_BerryFamilyJune2021-01676.jpg" style="display: block; max-width: 100%; height: auto;"> Born and raised in Fort Lauderdale, FL and now living in Las Vegas with her husband and three objectively adorable children, Rucheli Berry is obsessed with helping people feel empowered to live life on purpose and step into their own definitions of success through the unique combination of ancient Jewish wisdom and modern brain science.
+<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2148335486/settings_images/PJGTznfeTwCh0XpJQ20N_BerryFamilyJune2021-01676.jpg" style="display: block; max-width: 50%; height: auto; float: right;"> Born and raised in Fort Lauderdale, FL and now living in Las Vegas with her husband and three objectively adorable children, Rucheli Berry is obsessed with helping people feel empowered to live life on purpose and step into their own definitions of success through the unique combination of ancient Jewish wisdom and modern brain science.
 
 For the last 14 years, Rucheli has used the guidance found in Jewish mysticism along with the tools and strategies found in Positive Psychology to build her own success, like catapulting her career from $65K to a multiple six-figure salary in just 6.5 years, building a career coaching business in under 5 hours a week, and creating a life where truly anything is possible.
 
