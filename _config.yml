@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/rucheli-new"
-url: "https://cmrberry.github.io"
+baseurl: ""
+url: "http://rucheli.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
