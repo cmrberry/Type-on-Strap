@@ -2,17 +2,17 @@
   background-position: 100% -150px, 0 center, left center !important;
 }
 
-.site-header .avatar {
-  width: 12em;
-  float: left;
-  margin: -83px 0px -73px;
-  padding: 0 15px;
-}
-
 @media screen and (min-width: 768px) {
   .call-out {
     background-size: 100% auto;
     padding-left: 40%;
     min-height: 500px;
+  }
+  .site-header .avatar {
+    width: 12em;
+    height: auto;
+    float: left;
+    margin: -83px 0px -73px;
+    padding: 0 15px;
   }
 }
