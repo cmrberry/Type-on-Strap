@@ -2,9 +2,10 @@
   background-position: 100% -150px, 0 center, left center !important;
 }
 
-@media screen and (min-width: 768px)
-.call-out {
+@media screen and (min-width: 768px) {
+  .call-out {
     background-size: 100% auto;
     padding-left: 40%;
     min-height: 500px;
+  }
 }
