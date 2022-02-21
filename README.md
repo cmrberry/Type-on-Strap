@@ -8,7 +8,7 @@
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra [type-theme](https://github.com/rohanchandra/type-theme) packed with extra features and easily customizable:
 
-* Responsive design on all devices (🖥, 💻, 📱, ...)
+* Responsive design on all devices (🖥, 💻, 📱, ...) test change
 * Portfolio 🗂, Gallery 🖼 pages for your projects
 * Multi comments 💬 options  
 * Tags compatibility 🏷
