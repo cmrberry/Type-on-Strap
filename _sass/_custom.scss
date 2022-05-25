@@ -16,3 +16,21 @@
     padding: 0 15px;
   }
 }
+
+@media screen and (min-width: 1068px)
+.call-out {
+    background-size: 120% auto;
+    padding-left: 40%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-position: 20% -120px, center, left center !important;
+}
+
+@media screen and (min-width: 1620px)
+.call-out {
+    background-size: cover;
+    padding-left: 40%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-position: 20% -220px, center, left center !important;
+}
